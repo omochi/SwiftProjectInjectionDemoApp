@@ -1,4 +1,6 @@
-Library
+We can inject value in static context by using retroactive conformance.
+
+## Library
 
 ```swift
 public protocol P {
@@ -34,7 +36,7 @@ public func lib() {
 }
 ```
 
-App
+## App
 
 ```swift
 extension A: P {
@@ -46,7 +48,7 @@ extension B: P {}
 lib()
 ```
 
-Output
+## Output
 
 ```
 A is P
