@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftProtocolInjectionDemoLib",
+        "repositoryURL": "https://github.com/omochi/SwiftProtocolInjectionDemoLib",
+        "state": {
+          "branch": "master",
+          "revision": "8d6b4758e887232b09af328855c68a7e28d6f491",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
